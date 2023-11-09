@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# Adding my environment variable:
+*.env
+
+# ignore ALL files in ANY directory named temp
+temp/
